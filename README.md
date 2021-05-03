@@ -13,6 +13,7 @@ The application has the following functionalities:
 - [X] User can view top players in each skill category
 - [X] User can favorite players and teams, and view them on a seperate window.
 - [X] User can sign in and access account details, as well as edit or delete profile.
+- [X] User can update application data for latest information on the NBA.
 
 ## Video Walkthrough
 
